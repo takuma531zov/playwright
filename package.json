@@ -15,5 +15,8 @@
     "playwright": "^1.54.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0"
   }
 }
