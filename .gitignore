@@ -1,0 +1,13 @@
+node_modules/
+# 環境変数や秘密鍵など
+.env
+.env.*
+!.env.example
+
+# VSCodeなどの設定ファイル（チーム共有が不要な場合）
+.vscode/
+
+# Playwright 特有
+playwright-report/
+test-results/
+trace.zip
